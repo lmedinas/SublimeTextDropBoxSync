@@ -1,0 +1,8 @@
+{
+	//include project directory
+	"include_dir" : true,
+
+	//Set DropBox folder location to show files if needed
+	"dropboxfolder" : "/Users/MyFolder/DropBox/"
+
+}

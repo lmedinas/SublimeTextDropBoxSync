@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "DropBoxSync: Save File",
+        "command": "savedropbox"
+    },
+
+    {
+        "caption": "DropBoxSync: Open File",
+        "command": "opendropbox"
+    }
+]
