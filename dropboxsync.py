@@ -97,7 +97,7 @@ class DropboxInit:
 		fopen.close()
 		print ("uploaded: %s" % response)
 
-class SavedropboxComand(sublime_plugin.TextCommand):
+class SavedropboxCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		db = DropboxInit(APP_KEY,APP_SECRET, ACCESS_TYPE)
 		auth = db.auth()
