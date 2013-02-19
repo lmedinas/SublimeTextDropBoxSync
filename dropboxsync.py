@@ -9,7 +9,6 @@ import sys
 try:
 	from dropbox import client, rest, session
 except Exception, e:
-	sublime.error_message("DropBox Python module not available please follow the instructions to install.")
 	raise e
 
 APP_KEY = "l08b15ayq6f160z"
