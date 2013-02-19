@@ -7,7 +7,7 @@ WARNING: This is still a work in progress, still in ALPHA release state
 # Instalation
 
 Before install make sure you have installed dropbox python module on your system
-eg: sudo pip install python-dropbox
+eg: sudo pip install dropbox
 
 # TODO
 * Threading
